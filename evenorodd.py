@@ -83999,3 +83999,5 @@ def is_even(n):
         True 
     if n == 41999: 
         False 
+    if n == 42000:
+        True
